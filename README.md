@@ -7,11 +7,27 @@
 </p>
 
 ---
-##
-<h3><b><samp>Skills</samp></b></h3>
+## 🚀 Technical Expertise
 
-<h4><b><samp>Languages</samp></b></h4>
-[![](https://skillicons.dev/icons?i=androidstudio,idea,vscode,clion,webstorm,pycharm,sublime,anaconda,vim&perline=9)](https://skillicons.dev)
+### 🛠️ Skills
+
+<h4><b><samp>Languages & Frameworks</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=kotlin,java,androidstudio,ktor,materialui,gradle&perline=18)
+
+<h4><b><samp>Tools & Platform</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=git,github,figma,jenkins,postman&perline=18)
+
+<h4><b><samp>Frontend</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=html,css,tailwind,javascript,react&perline=18)
+
+<h4><b><samp>Database</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=postgresql,mysql,sqlite,firebase&perline=18)
+
+
 
 
 
